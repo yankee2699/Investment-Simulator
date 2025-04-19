@@ -1,0 +1,1 @@
+mkdir investment-simulator && cd investment-simulator
